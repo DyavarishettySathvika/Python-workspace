@@ -1,0 +1,5 @@
+print(5+13)
+print(56-23)
+print(90*2)
+print(10/2)
+print(20//4)
