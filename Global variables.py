@@ -17,7 +17,7 @@ print("Python is " + x)
 def myfunc():
   global x
   x = "Keyword"
-myfunc()
+myfunc() # It is a mandatory thing in global variables
 print("Python is " + x)
 
 #Outside Function
