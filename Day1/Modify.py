@@ -17,6 +17,6 @@ text = "Boosting"
 Refresh= text.strip()
 print(Refresh)
 #In Removing whitespace we use .strip word to execute
-text = "Bagging"
+text = "B"
 Refresh= text.strip()
 print(Refresh)
