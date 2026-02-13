@@ -1,0 +1,16 @@
+t = ("apple", "banana", "cherry")
+print(t)           
+print(t[0])        
+print(t[1])        
+print(t[2])        
+t1 = (1, 2, 3)
+t2 = (1, 3, 2)
+print(t1 == t2)    
+#Positive Indexing
+animals = ("dog", "cat", "rabbit", "parrot")
+print(animals[0])   
+print(animals[2])   
+#Negative Indexing
+nums = (10, 20, 30, 40)
+print(nums[-1])    
+print(nums[-2])   
