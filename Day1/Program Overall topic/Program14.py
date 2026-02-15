@@ -5,3 +5,8 @@ students = ("Ram", "Sita", "John", "Priya")
 print("Full tuple:", students)
 print("First student:", students[0])
 print("Last student:", students[-1])
+students = ("Ramu", "Seetha", "Janu", "Priyaka")
+
+print("Full tuple:", students)
+print("First student:", students[0])
+print("Last student:", students[-1])
