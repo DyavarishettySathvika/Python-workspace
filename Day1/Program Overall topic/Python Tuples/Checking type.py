@@ -1,0 +1,10 @@
+#Checking type()
+mytuple=('Sathvika','Bunny','Lucky','Vinay','Teja')
+print(type(mytuple))
+tuple=(4,5,6,32,6)
+print(type(tuple))
+tuple=(23.4,54.6,43.5,78.5)
+print(type(tuple))
+tuple=(True,False,True,False)
+print(type(tuple))
+
