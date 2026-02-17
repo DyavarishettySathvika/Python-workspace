@@ -1,0 +1,13 @@
+#Access Tuple Items(You can access tuple items by referring to the index number, inside square brackets)
+thistuple=('One','Second','Third','Fourth','Fifth')
+print(thistuple[1])
+print(thistuple[2])
+print(thistuple[3])
+print(thistuple[4])
+#It will start from 0 indexing
+tuple=('Saritha','Krishnaveni','Sadanand','Sai Krishna')
+print(thistuple[0])
+print(thistuple[1])
+print(thistuple[2])
+print(thistuple[3])
+print(thistuple[4])
