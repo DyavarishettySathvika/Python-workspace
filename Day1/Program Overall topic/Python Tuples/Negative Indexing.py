@@ -1,0 +1,7 @@
+#Negative Indexing(Negative indexing means start from the end.-1 refers to the last item, -2 refers to the second last item etc.)
+tuple=('One','Two','Three','Four','Five')
+print(tuple[-1])
+print(tuple[-2])
+print(tuple[-3])
+print(tuple[-4])
+print(tuple[-5])
