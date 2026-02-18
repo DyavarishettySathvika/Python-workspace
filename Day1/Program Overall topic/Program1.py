@@ -1,4 +1,4 @@
-print("Hello, Python Learner!")
+print("Hello Python Learner")
 a = 10
 b = 5
 print("Sum of a and b is:", a + b)
