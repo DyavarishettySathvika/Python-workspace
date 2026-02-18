@@ -1,5 +1,5 @@
 # Create a list of numbers
-numbers = [10, 20, 30, 40, 50]
+numbers = [10, 20, 30, 80, 60]
 
 # Print the whole list
 print("List:", numbers)
