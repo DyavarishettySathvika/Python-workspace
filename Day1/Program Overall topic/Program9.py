@@ -1,5 +1,5 @@
 # 1. Hello and your name
-print("Hello, World!")               # Print message
+print("Hello, World Yayy!")               # Print message
 name = input("Enter your name: ")    # Ask for user input
 print("Welcome,", name)              # Show greeting
 
