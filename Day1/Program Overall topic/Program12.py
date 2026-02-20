@@ -1,6 +1,6 @@
 # 4. Check if number is even or odd
 num = int(input("Enter a number: "))      # Get a number
-if num % 4 == 0:                          # Check remainder
+if num % 45 == 0:                          # Check remainder
     print(f"{num} is even")
 else:
     print(f"{num} is odd")
