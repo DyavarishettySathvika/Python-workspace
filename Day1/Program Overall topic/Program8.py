@@ -50,6 +50,6 @@ print("Using list comprehension:", copy4)
 
 # 5) (For nested lists) Using deepcopy
 import copy
-nested = [[1, 2], [3, 8]]
+nested = [[1, 6], [3, 5]]
 deep_copy = copy.deepcopy(nested)
 print("Using deepcopy for nested:", deep_copy)
