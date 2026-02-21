@@ -1,5 +1,5 @@
 # Program to count how many times 'apple' appears
-fruits = ["apple", "grapes", "apple", "orange", "apple"]
+fruits = ["apple", "kiwi", "apple", "orange", "apple"]
 
 count = 0
 for fruit in fruits:
