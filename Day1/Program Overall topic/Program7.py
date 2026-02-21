@@ -1,5 +1,5 @@
 # Program to remove duplicates
-numbers = [1, 2, 2, 3, 2, 3, 4, 5]
+numbers = [1, 2, 2, 5, 2, 7, 4, 5]
 unique_list = []
 
 for num in numbers:
