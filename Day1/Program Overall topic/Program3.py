@@ -4,6 +4,6 @@ for fruit in fruits:
     print("I like", fruit)
 # Find max of three numbers
 a = 17
-b = 23
+b = 43
 c = 25
 print("Maximum is", max(a, b, c))
