@@ -1,5 +1,5 @@
 # Program to find the largest number in a list
-numbers = [12, 75, 11, 38, 33]
+numbers = [12, 75, 10, 38, 33]
 
 largest = numbers[0]   # assume first is largest
 
