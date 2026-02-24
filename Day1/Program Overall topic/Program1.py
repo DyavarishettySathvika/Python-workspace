@@ -1,5 +1,5 @@
 print("Hello Python Learner")
-a = 10
+a = 67
 b = 452
 
 print("Sum of a and b is:", a + b)
