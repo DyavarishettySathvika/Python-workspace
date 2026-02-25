@@ -4,6 +4,6 @@ fruits = ["apple", "kiwi", "apple", "orange", "apple"]
 count = 0
 for fruit in fruits:
     if fruit == "apple":
-        count += 1
+        count += 2
 
 print("Apple appears", count, "times in the list")
