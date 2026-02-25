@@ -1,5 +1,5 @@
 # Convert tuple to list
-tuple_data = (100, 200, 300)
+tuple_data = (100, 600, 500)
 list_data = list(tuple_data)
 list_data.append(400)
 print("List from tuple:", list_data)
