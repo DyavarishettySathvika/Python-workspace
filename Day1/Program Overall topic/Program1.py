@@ -1,6 +1,6 @@
 print("Hello Python Learner")
 a = 67
-b = 45
+b = 898
 
 print("Sum of a and b is:", a + b)
 # Check if a number is even or odd
