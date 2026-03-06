@@ -1,12 +1,12 @@
 # Program 2: Find length and loop through tuple
 
-numbers = (10, 20, 10, 80, 50)
+numbers = (23, 76, 23, 97, 56)
 
 print("Length of tuple:", len(numbers))
 
 for n in numbers:
     print("Number:", n)
-numbers = (100, 120, 130, 260, 50)
+numbers = (23, 853, 85, 456, 76)
 
 print("Length of tuple:", len(numbers))
 
