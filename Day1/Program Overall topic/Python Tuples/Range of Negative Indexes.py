@@ -2,7 +2,7 @@
 fruits=('Mango','Pineapple','Apple','Orange','Kiwi','Cherry')
 print(fruits[-5:-2])
 print(fruits[-4:-1])
-print(fruits[-4:1])
+print(fruits[-2:4])
 print(fruits[4:-1])
 print(fruits[-2:5])
 
