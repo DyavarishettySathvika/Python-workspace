@@ -11,4 +11,4 @@ else:
     print("Number is not divisible by 2")
     print("So it is Odd")
 
-print("Program completed")
+print("Program Successful")
