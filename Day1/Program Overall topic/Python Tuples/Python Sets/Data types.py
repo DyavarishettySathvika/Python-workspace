@@ -5,3 +5,6 @@ print(set1,set2,set3)
 print(set1)
 print(set2)
 print(set3)
+
+set1={'abc','female',True,False,48}
+print(set1)
