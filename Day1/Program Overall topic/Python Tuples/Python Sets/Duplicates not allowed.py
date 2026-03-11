@@ -1,8 +1,8 @@
-thisset={'apple','carrot','carrot','beetroot'}
+thisset={'apple','stomato','stomato','beetroot'}
 print(thisset)
 
 #True and 1 is considered the same value
-thisset = {'camel','horse','zebra',True,1}
+thisset = {'cat','dog','camel',True,1}
 print(thisset)
 
 #False and 0 is considered the same value:
