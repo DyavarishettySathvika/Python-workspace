@@ -1,4 +1,4 @@
-myset = {"Sathvika",'Bunny',"Lucky"}
+myset = {"Anand",'Saritha',"Anitha"}
 print (myset)
 
 thisset = {2,3,4,56,7}
