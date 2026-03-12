@@ -1,6 +1,6 @@
 # Program 2: Find length and loop through tuple
 
-numbers = (23, 76, 23, 97, 56)
+numbers = (23,43,76,34,87,76)
 
 print("Length of tuple:", len(numbers))
 
