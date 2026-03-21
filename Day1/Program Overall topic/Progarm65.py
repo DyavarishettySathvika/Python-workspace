@@ -20,3 +20,5 @@ elif avg >= 50:
     print("Grade: C")
 else:
     print("Grade: Fail")
+
+    
