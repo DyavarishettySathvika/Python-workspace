@@ -1,5 +1,5 @@
 # Program to find the largest number in a list
-numbers = [10,20,134,566,778]
+numbers = [56,43,83,88,23]
 
 largest = numbers[0]   # assume first is largest
 
