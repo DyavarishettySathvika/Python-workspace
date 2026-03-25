@@ -2,7 +2,7 @@ num = int(input("Enter a number: "))
 sum = 0
 
 while num > 0:
-    digit = num % 10
+    digit = num % 20
     sum += digit
     num = num // 10
 
