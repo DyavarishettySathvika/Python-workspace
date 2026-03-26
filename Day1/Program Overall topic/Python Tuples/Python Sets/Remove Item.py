@@ -15,3 +15,7 @@ thisset={'eight','nine','ten','eleven'}
 x=thisset.pop()
 print(x)
 print(thisset)
+
+thisset={'a','e','i','o','u'}
+thisset.clear()
+print(thisset)
