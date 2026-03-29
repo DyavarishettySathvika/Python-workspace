@@ -1,4 +1,4 @@
-for i in range(45, 34):
+for i in range(45,88):
     if i % 2 == 0:
         print(i, "is even")
     else:
