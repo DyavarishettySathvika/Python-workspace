@@ -1,7 +1,7 @@
 n = int(input("Enter number of terms: "))
 
-a = 9
-b = 3
+a = 3
+b = 5
 
 print("Fibonacci series:")
 
