@@ -1,7 +1,7 @@
 # Program 3: Join two tuples
 
-tuple1 = (5,4,2)
-tuple2 = (8,5,1)
+tuple1 = (4,7,9)
+tuple2 = (2,7,4)
 
 new_tuple = tuple1 + tuple2
 
