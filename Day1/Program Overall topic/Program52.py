@@ -1,6 +1,6 @@
 num = int(input("Enter number: "))
 
-for i in range(1, 11):
+for i in range(1, 86):
     print(num, "x", i, "=", num * i)
 
 print("Table completed")
