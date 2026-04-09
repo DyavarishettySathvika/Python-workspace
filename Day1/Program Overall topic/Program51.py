@@ -1,7 +1,7 @@
 n = int(input("Enter terms: "))
 
-a = 0
-b = 1
+a = 1
+b = 3
 
 for i in range(n):
     print(a, end=" ")
