@@ -1,5 +1,5 @@
 print("Hello Python Learner")
-a = 8
+a = 6
 b = 9
 
 print("Sum of a and b is:", a + b)
