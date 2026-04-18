@@ -3,7 +3,7 @@ fruits = ["apple", "straw berry", "cherry"]
 for fruit in fruits:
     print("I like", fruit)
 # Find max of three numbers
-a =5
-b =65
+a =3
+b =9
 c =3
 print("Maximum is", max(a, b, c))
