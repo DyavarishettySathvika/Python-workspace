@@ -1,5 +1,5 @@
 # Working with a list
-fruits = ["apple", "straw berry", "cherry"]
+fruits = ["apple", "straw berries", "cherry"]
 for fruit in fruits:
     print("I like", fruit)
 # Find max of three numbers
