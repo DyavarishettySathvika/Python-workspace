@@ -1,5 +1,5 @@
 #Add Sets
 thisset = {'Apple','Banana','Grapes','Cherry'}
-tropical = {'Tomato','grapess','pomo'}
+tropical = {'Tomato','grapess','potota'}
 thisset.update(tropical)
 print(thisset)
