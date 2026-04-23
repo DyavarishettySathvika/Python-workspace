@@ -5,7 +5,7 @@ print("Welcome,", name)              # Show greeting
 
 age = int(input("Enter your age: ")) # Get age as number
 if age >= 18:                        # Check eligibility
-    print("You are an adult.")
+    print("I are an adult.")
 else:
     print("You are a minor.")
 
