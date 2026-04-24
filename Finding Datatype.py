@@ -16,7 +16,7 @@ print(type(x))
 
 #Int
 x = 76490768
-y = 917476596
+y = 917476
 z = -34
 print(type(x))
 print(type(y))
