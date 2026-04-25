@@ -1,4 +1,4 @@
-num=5
+num=9
 result=num**3
 print(result)
 
