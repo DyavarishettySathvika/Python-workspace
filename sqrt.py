@@ -7,6 +7,6 @@ result=num**2
 print(result)
 
 import math
-num=5
+num=8
 result=math.sqrt(num)
 print(result)
